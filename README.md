@@ -63,3 +63,6 @@ This input file sets up a scene with three spheres, a camera positioned at (0, 0
 ## Output
 
 The ray tracer saves the rendered image as a PPM file specified in the input file's `OUTPUT` line.
+
+The output from the example input file above looks like this:
+![output.ppm](https://github.com/jasont7/raytracer/assets/26695415/0a10170e-ac51-4d97-803b-00aa0ff1ef44)
