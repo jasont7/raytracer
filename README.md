@@ -33,7 +33,7 @@ LIGHT <name> <position_x> <position_y> <position_z> <color_r> <color_g> <color_b
 - `AMBIENT`: Sets the ambient light color.
 - `BACK`: Sets the background color.
 - `OUTPUT`: Specifies the output file name.
-- `SPHERE`: Defines a sphere in the scene. Parameters include the center position, scale, color, and material properties.
+- `SPHERE`: Defines a sphere in the scene. Parameters include the center position, scale, color, and material properties (ambient, diffuse, specular, reflection, shininess).
 - `LIGHT`: Defines a light source in the scene. Parameters include the position and color.
 
 Note: The input file can contain multiple `SPHERE` and `LIGHT` lines to define multiple spheres and lights in the scene.
